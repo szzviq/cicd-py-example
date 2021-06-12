@@ -1,0 +1,82 @@
+{
+  "cb4e58acdeea1cfb42b89a42126fbcc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7afa68c6b1e97cc8",
+      "reportUrl" : "https://szzviq.github.io/cicd-py-example/3//#testresult/7afa68c6b1e97cc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623525962788,
+        "stop" : 1623525962788,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8b7d100b89a9b0e22a8d6732c7ee0ba9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50a8d30060cabe69",
+      "reportUrl" : "https://szzviq.github.io/cicd-py-example/3//#testresult/50a8d30060cabe69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623525962786,
+        "stop" : 1623525962786,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dce78d7dd5962c01ca0a9a6e9bc9920e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff6631d06b5975da",
+      "reportUrl" : "https://szzviq.github.io/cicd-py-example/3//#testresult/ff6631d06b5975da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623525962771,
+        "stop" : 1623525962771,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dcb8fa11fdff83e2daf0e792014a33fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cdc292e1684d8618",
+      "reportUrl" : "https://szzviq.github.io/cicd-py-example/3//#testresult/cdc292e1684d8618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623525962787,
+        "stop" : 1623525962787,
+        "duration" : 0
+      }
+    } ]
+  }
+}
